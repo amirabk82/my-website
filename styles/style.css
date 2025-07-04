@@ -14,7 +14,7 @@ body{
     background: #fff;
 }
 .menu-top{
-    background: url(../shixon/datas/_TopCampain1258080682.jpg);
+    background: url(../images/_TopCampain1258080682.jpg);
     height: 35px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -374,7 +374,7 @@ footer{
     /* background-color: yellow; */
 }
 footer .top-footer{
-    background: url(../shixon/datas/TextBack.jpg);
+    background: url(../images/TextBack.jpg);
     background-color: rgba(0,0,0,.99);
     background-position: 50% -1264.5px;
     height: 335px;
